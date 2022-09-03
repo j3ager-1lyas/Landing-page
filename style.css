@@ -177,11 +177,15 @@ width: max-content;
     
 }
 .btn2 {
+
+
 background-color: #3882f6;
+    font-weight: bold;
+    font-size: 12px;
 color: white;
-border: 2px solid;
-border-radius: 16px;
-padding: 10px 20px;
+border-radius: 10px;
+padding: 5px 23px;
+border-color: #f4f6fa;
 cursor: pointer;
 }
 /*/////////////////////////////////////////////////////////////////////////////////////////*/
