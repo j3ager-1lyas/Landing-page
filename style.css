@@ -1,5 +1,5 @@
 .first-section {
-    background-color: #183c6e;
+    background-color: #6438eb;
     font-family :Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 220px;
     padding-right: 180px;
@@ -131,3 +131,69 @@ object-fit: cover;
 
 }
  
+/*///////////////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////////////*/
+
+.quote {
+font-size: 36px;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+color: rgb(6, 24, 137);
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
+
+
+}
+.credit {
+    color: black;
+    font-weight: bold;
+font-size: 26px;
+padding-left: 1000px;
+}
+.section-three {
+    background-color: #CBC3E3;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+/*////////////////////////////////////////////////////////////////////////////////////*/
+
+.contact {
+
+color: white;
+display: inline-block;
+width: max-content;
+
+}
+
+.forth-section{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: #3882f6 ;
+    padding: 50px;
+    margin: 50px 300px;
+    border-radius: 20px;
+    
+}
+.btn2 {
+background-color: #3882f6;
+color: white;
+border: 2px solid;
+border-radius: 16px;
+padding: 10px 20px;
+cursor: pointer;
+}
+/*/////////////////////////////////////////////////////////////////////////////////////////*/
+
+.footer {
+height: 50px;
+background-color: #CBC3E3;
+text-align: center;
+justify-content: center;
+padding:30px auto;
+display: flex;
+align-items: center;
+}
+
+
